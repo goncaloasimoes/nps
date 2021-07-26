@@ -1,2 +1,1 @@
-# net-pro-sim
-Network Propagation Simulation
+# Network Propagation Simulator
